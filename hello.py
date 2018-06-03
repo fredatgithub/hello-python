@@ -3,4 +3,4 @@
 def say_hello(sth):
     print("Hello {}".format(sth))
 
-say("pizza")
+say_hello("pizza")
