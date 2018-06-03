@@ -1,3 +1,6 @@
 #!/usr/bin/python
 
-print("Hello")
+def say(sth):
+    print(sth)
+
+say("pizza")
