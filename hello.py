@@ -1,3 +1,6 @@
 #!/usr/bin/python
 
-print("Hello")
+def say_hello(sth):
+    print("Hello {}".format(sth))
+
+say_hello("there")
